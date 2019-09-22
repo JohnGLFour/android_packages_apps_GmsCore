@@ -14,3 +14,5 @@ android:
   - android-27
   - android-28
   - extra-android-m2repository
+addons:
+  artifacts: true
